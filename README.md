@@ -96,6 +96,7 @@ image-compressor-webapp/
     └── script.js
 
 Usage
+
 Signup: Create a new account by navigating to the signup page and providing the required information.
 Login: Access your account by logging in with your username and password.
 Compress Images: Upload images, select the desired compression quality, and download the compressed images in a ZIP file.
